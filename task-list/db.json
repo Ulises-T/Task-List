@@ -1,0 +1,46 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Terminar modulo 1",
+      "day": "1 de Junio del 2022 a las 18 hs.",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Arrancar con Bases de datos",
+      "day": "2 de Junio del 2022 a las 19 hs.",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Realizar master class del cuarto modulo",
+      "day": "10 de Junio del 2022 a las 19 hs.",
+      "reminder": true
+    },
+    {
+      "id": 4,
+      "text": "Terminar el modulo 4",
+      "day": "31 de Junio del 2022 a las 22 hs.",
+      "reminder": false
+    },
+    {
+      "id": 5,
+      "text": "Terminar el modulo 4",
+      "day": "31 de Junio del 2022 a las 22 hs.",
+      "reminder": false
+    },
+    {
+      "id": 6,
+      "text": "Terminar el modulo 4",
+      "day": "31 de Junio del 2022 a las 22 hs.",
+      "reminder": false
+    },
+    {
+      "text": "Nueva Tarea",
+      "day": "mañana",
+      "reminder": false,
+      "id": 7
+    }
+  ]
+}
